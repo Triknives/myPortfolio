@@ -21,7 +21,7 @@ class AppNavbar extends Component {
   }
   render() {
     return(
-    <div>
+    <div class="nav-text">
       <Navbar color="dark" dark expand="sm" className="mb-5" id="nav-list">
         <Container>
           <NavbarBrand href="/">Brett Cordell</NavbarBrand>
