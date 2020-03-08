@@ -1,5 +1,4 @@
 import React from "react"
-import Thumbnail from './Thumbnail.js';
 import {
   Card, CardImg, CardText, CardBody,
   CardTitle, CardSubtitle, Button, Col

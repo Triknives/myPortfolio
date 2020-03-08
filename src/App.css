@@ -1,9 +1,14 @@
-body {
-  background-color: #343a40;
-}
 
 .App {
   text-align: center;
+}
+
+.about-me{
+  font-family: monospace;
+  width: 50vw;
+  font-size: 1.4rem;
+  margin:4vh auto;
+  font-weight: 600;
 }
 
 .nav-list {
@@ -23,7 +28,7 @@ body {
   display: flex;
   font-family:monospace;
   font-size:1.1rem;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 h1 {
