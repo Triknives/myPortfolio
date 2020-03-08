@@ -4,11 +4,11 @@
 }
 
 .about-me{
-  font-family: monospace;
+  font-family:Go mono;
   width: 50vw;
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   margin:4vh auto;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .nav-list {
@@ -21,18 +21,18 @@
 }
 
 .nav-text {
-  font-family:monospace;
+  font-family:;
   font-size: 1.3rem;
 }
 .cards {
   display: flex;
-  font-family:monospace;
+  font-family:Go Mono;
   font-size:1.1rem;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 h1 {
-font-family: monospace;
+font-family: Go Mono;
 font-weight: 500;
 
 }

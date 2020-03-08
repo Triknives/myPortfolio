@@ -4,8 +4,9 @@ function About(props) {
   return (
     <Container>
       <div className="about-me">
-      <h2>Hello, my name is Brett Cordell!</h2>
-      <article>I am a Full-Stack developer. I enjoy learning new frameworks, languages and design strategies. When not coding I love traveling abroad and nerding out on my hobbies!</article>
+      <h1>Hello, my name is Brett Cordell!</h1>
+      <p>I am a Full-Stack developer, with experiencing creating applications with React.js and Ruby On Rails. Currently working with "MERN" stack. I also love learning new frameworks, languages and design strategies.
+      </p>
     </div>
     </Container>
   )

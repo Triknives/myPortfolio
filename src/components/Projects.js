@@ -16,9 +16,9 @@ function Projects(props) {
       <Col sm="13">
       <Card>
         <CardBody>
+        <CardTitle><h2>DingBat</h2></CardTitle>
         <CardImg top width="100%" img src={dingBatCard} alt="Card image cap" />
-          <CardTitle>DingBat</CardTitle>
-          <CardSubtitle>Ruby Full Stack Application</CardSubtitle>
+          <CardSubtitle><strong>Ruby on Rails | Action Cable | PostGreSql</strong></CardSubtitle>
           <CardText>A browser based party trivia game based off the "JackBox" series on Nintendo Switch. Players can sign in to a game via mobile devices. Host device is ideally a monitor or T.V.</CardText>
           <Button href="http://dingbat-trivia.herokuapp.com">Visit Page</Button>
         </CardBody>
@@ -29,10 +29,10 @@ function Projects(props) {
         <Col sm="14">
         <Card>
           <CardBody>
+          <CardTitle><h2>Marios Reviews</h2></CardTitle>
           <CardImg top width="100%" img src={mariosReview1} alt="Card image cap" />
-            <CardTitle>DingBat</CardTitle>
-            <CardSubtitle>Ruby Full Stack Application</CardSubtitle>
-            <CardText>A browser based party trivia game based off the "JackBox" series on Nintendo Switch. Players can sign in to a game via mobile devices. Hosaat</CardText>
+            <CardSubtitle><strong>Ruby on Rails | PostgreSql | Auth.</strong></CardSubtitle>
+            <CardText>A browser based party trivia game based off the "JackBox" series on Nintendo Switch. Players can sign in to a game via mobile devices. Hot.</CardText>
             <Button href="https://fierce-lake-38166.herokuapp.com/users/sign_in">Visit Page</Button>
           </CardBody>
         </Card>
@@ -42,10 +42,10 @@ function Projects(props) {
           <Col sm="13">
           <Card>
             <CardBody>
+            <CardTitle><h2>Toshou</h2></CardTitle>
             <CardImg top width="100%" img src={toshou} alt="Card image cap" />
-              <CardTitle>DingBat</CardTitle>
-              <CardSubtitle>Ruby Full Stack Application</CardSubtitle>
-              <CardText>A browser based party trivia game based off the "JackBox" series on Nintendo Switch. Players can sign in to a game via mobasssss</CardText>
+              <CardSubtitle><strong>React.Js | MERN Stack | Redux</strong></CardSubtitle>
+              <CardText>A browser based party trivia game based off the "JackBox" series on Nintendo Switch. Players can sign in to a game via mobass</CardText>
               <Button>Visit Page</Button>
             </CardBody>
           </Card>
