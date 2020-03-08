@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
+import { Container } from "reactstrap";
 import { BrowserRouter, Route, Link } from 'react-router-dom';
 import Projects from './components/Projects';
-import Articles from './components/Articles';
 import About from './components/About';
 import AppNavbar from './components/AppNavbar';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -11,8 +11,11 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        <Container>
         <AppNavbar/>
-      </div>
+        <Projects/>
+        </Container>
+        </div>
     );
   }
 }
