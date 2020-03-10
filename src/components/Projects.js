@@ -30,7 +30,7 @@ function Projects(props) {
         <Card>
           <CardBody>
           <CardTitle><h2>Marios Reviews</h2></CardTitle>
-          <CardSubtitle><strong>Ruby on Rails | PostgreSql | Auth.</strong></CardSubtitle>
+          <CardSubtitle><strong>Ruby on Rails | PostgreSql | Devise</strong></CardSubtitle>
           <CardImg top width="100%" img src={mariosReview1} alt="Card image cap" />
             <CardText>A full stack application, mock up site with authorizations through Devise. Users can sign up, and add a product to the site and leave a review.</CardText>
             <Button href="https://fierce-lake-38166.herokuapp.com/users/sign_in">Visit Page</Button>
@@ -43,9 +43,9 @@ function Projects(props) {
           <Card>
             <CardBody>
             <CardTitle><h2>Toshou</h2></CardTitle>
-            <CardSubtitle><strong>React.JS | MERN Stack | Redux</strong></CardSubtitle>
+            <CardSubtitle><strong>MERN Stack | Redux | BcryptJS</strong></CardSubtitle>
             <CardImg top width="100%" img src={toshou} alt="Card image cap" />
-              <CardText>A browser based party trivia game based off the "JackBox" series on Nintendo Switch. Players can sign in to a game via mobass</CardText>
+              <CardText>Online book tracking site allowing the user to create reading goals, reviews and wish list of books. Private routing coming soon.</CardText>
               <Button>Visit Page</Button>
             </CardBody>
           </Card>
