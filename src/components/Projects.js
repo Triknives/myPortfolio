@@ -47,7 +47,7 @@ function Projects(props) {
             <CardImg top width="100%" img src={toshou} alt="Card image cap" />
               <CardText>Online book tracking site allowing the user to create reading goals, reviews and wish list of books.Auth and with routing soon..
               </CardText>
-              <Button herf="https://shrouded-reaches-52385.herokuapp.com/todo">Visit Page</Button>
+              <Button href="https://shrouded-reaches-52385.herokuapp.com/">Visit Page</Button>
             </CardBody>
           </Card>
           </Col>
