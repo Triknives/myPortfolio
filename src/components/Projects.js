@@ -45,9 +45,9 @@ function Projects(props) {
             <CardTitle><h2>Toshou</h2></CardTitle>
             <CardSubtitle><strong>MERN Stack  Redux  BcryptJS</strong></CardSubtitle>
             <CardImg top width="100%" img src={toshou} alt="Card image cap" />
-              <CardText>Online book tracking site allowing the user to create reading goals, reviews and wish list of books.Heroku hosting coming soon.
+              <CardText>Online book tracking site allowing the user to create reading goals, reviews and wish list of books.Auth and with routing soon..
               </CardText>
-              <Button>Visit Page</Button>
+              <Button herf="https://shrouded-reaches-52385.herokuapp.com/todo">Visit Page</Button>
             </CardBody>
           </Card>
           </Col>
