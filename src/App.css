@@ -4,7 +4,7 @@
 }
 
 .about-me{
-  font-family:Go mono;
+  font-family:Go mono ;
   width: 50vw;
   font-size: 1.3rem;
   margin:4vh auto;
@@ -24,8 +24,9 @@
   font-family:;
   font-size: 1.3rem;
 }
-.cards {
+.cards{
   display: flex;
+  flex-direction: row;
   font-family:Go Mono;
   font-size:1.1rem;
   font-weight: 500;
@@ -34,5 +35,4 @@
 h1 {
 font-family: Go Mono;
 font-weight: 500;
-
 }
